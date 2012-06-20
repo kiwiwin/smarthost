@@ -1,0 +1,17 @@
+==Introduction
+
+This simple project is used for update your hosts information
+
+==How To Use
+
+	<b>ruby smarthost.rb</b>
+
+	if the permission is denied, you may try below commands seperately:
+
+	<b>sudo ruby smarthost.rb</b>
+
+	<b>rvmsudo ruby smarthost.rb</b>
+
+==Contact Me
+
+	kiwi.swhite.coder@gmail.com
